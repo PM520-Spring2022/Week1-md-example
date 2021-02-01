@@ -14,4 +14,7 @@ This is what allows the .md file to be produced in a way that will work for gith
 2. As well as uploading the .md file you also have to upload the figure files. This is so that
 github can find them when it tries to render the .md file.
 
-Other options for this czan be fdound in the "Useful-Tips" repository here.
+Note that this didn't display the Latex equation for the solution correctly. The simplest way of
+doing that is to knit to a pdf instead and then upload the pdf. (See example pdf in this repo.)
+
+Other options for this can be fdound in the "Useful-Tips" repository here.

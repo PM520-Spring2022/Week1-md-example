@@ -56,7 +56,7 @@ hist(Distance,breaks=25,col="blue")
 ![](DistanceFinder_Solution_files/figure-gfm/output-1.png)<!-- -->
 
 As far as I am aware, this distribution is not one of the common
-distributions.
+distributions!
 
 It turns out that there is a theoretical answer to this problem. The
 expected distance is

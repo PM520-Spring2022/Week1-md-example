@@ -15,6 +15,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 
 Here's the code for our problem. 
+[Here is an edit.]
 First create some global variables to dictate the parameters of the problem
 ```{r globals}
 # How many simulations to run?
